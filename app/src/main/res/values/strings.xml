@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple News</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="title">Title</string>
+    <string name="published_date">Published Date</string>
+    <string name="no_data">Empty data</string>
+    <string name="something_wrong">Oops.. something went wrong.</string>
+    <string name="photo">photo</string>
+    <string name="name">Alif Khaerudin</string>
+    <string name="username">alifkha7</string>
+</resources>
